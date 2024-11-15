@@ -38,6 +38,7 @@
         color: var(--text-color-secondary);
         background: url(/assets/icons/Check.svg) no-repeat;
         padding-left: 2rem;
+        padding-block: 2px;
         
     }
 
